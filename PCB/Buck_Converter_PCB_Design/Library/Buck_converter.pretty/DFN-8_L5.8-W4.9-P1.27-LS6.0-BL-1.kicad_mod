@@ -1,0 +1,314 @@
+(footprint "DFN-8_L5.8-W4.9-P1.27-LS6.0-BL-1"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "CSD17581Q5A"
+		(at 0 -4.5 0)
+		(layer "F.SilkS")
+		(uuid "94ae1b7b-0773-4142-89c3-32fadf32b0ec")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DFN-8_L5.8-W4.9-P1.27-LS6.0-BL-1"
+		(at 0 5 0)
+		(layer "F.Fab")
+		(uuid "f6a3a444-e041-4066-b13a-6370ca2a5322")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "DFN-8_L5.8-W4.9-P1.27-LS6.0-BL-1"
+		(at 0 6.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c24103a3-2f6e-4d64-bef5-eb9358892e01")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35311568-cba4-472a-9ccb-31fb745b70fe")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a82fc632-7b66-492a-91b9-4e7726a127ae")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.55 -3.05)
+		(end -2.43 -3.05)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4d720a55-dd49-482b-8d6f-eab5e5c05690")
+	)
+	(fp_line
+		(start -2.55 2.92)
+		(end -2.55 -3.05)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "147915a4-3531-4cef-b570-e74df4fa952d")
+	)
+	(fp_line
+		(start -2.43 2.92)
+		(end -2.55 2.92)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c5a05cd9-bde6-413b-a0fa-ff9f363bead3")
+	)
+	(fp_line
+		(start -1.38 -3.05)
+		(end -1.16 -3.05)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "617797ba-8aff-4e9f-8866-d292e23d0238")
+	)
+	(fp_line
+		(start -1.16 2.92)
+		(end -1.39 2.92)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "71681232-cdd9-42f1-b534-b7f462edd884")
+	)
+	(fp_line
+		(start -0.11 -3.05)
+		(end 0.11 -3.05)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5a9bd0e-23b3-43a7-b137-4641061133d2")
+	)
+	(fp_line
+		(start 0.11 2.92)
+		(end -0.12 2.92)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2d5de94d-0e58-4243-af21-d728dbf05d12")
+	)
+	(fp_line
+		(start 1.16 -3.05)
+		(end 1.37 -3.05)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7e175f8f-4635-40a0-813c-f71c61badf83")
+	)
+	(fp_line
+		(start 1.38 2.92)
+		(end 1.15 2.92)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "703adbfd-655a-4762-8b65-0c8a8e133ca6")
+	)
+	(fp_line
+		(start 2.42 -3.05)
+		(end 2.53 -3.05)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6bedc725-6646-48a6-ac5c-5a13bd230d7e")
+	)
+	(fp_line
+		(start 2.53 -3.05)
+		(end 2.53 2.92)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8cea7b3c-6234-4c82-81fd-2dc2c1a75386")
+	)
+	(fp_line
+		(start 2.53 2.92)
+		(end 2.42 2.92)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dc86c0e9-4acb-4877-9f76-a7f925dd4825")
+	)
+	(fp_arc
+		(start -2.67 3.81)
+		(mid -2.67 3.81)
+		(end -2.67 3.81)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8e887fb7-8e08-482e-8124-eb57eeeb45ec")
+	)
+	(fp_circle
+		(center -2.45 3.01)
+		(end -2.42 3.01)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "c0d2ae02-03b8-4b1f-9dbf-776ae639d31f")
+	)
+	(pad "1" smd rect
+		(at -1.91 2.75 180)
+		(size 0.58 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6593971d-5da1-48f2-b824-798a2a8a434c")
+	)
+	(pad "2" smd rect
+		(at -0.64 2.75 180)
+		(size 0.58 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "bf9bebc7-9eed-4fd2-b64b-b53efb85af1c")
+	)
+	(pad "3" smd rect
+		(at 0.63 2.75 180)
+		(size 0.58 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0e831aaa-b4c8-4ccd-a2ce-f5c78cac454a")
+	)
+	(pad "4" smd rect
+		(at 1.9 2.75 180)
+		(size 0.58 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "939e0ba5-6728-4b87-9f7e-2d63e6462eec")
+	)
+	(pad "5" smd rect
+		(at 1.91 -2.75)
+		(size 0.58 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "26a0deaa-cee4-493c-b5b6-1315d5e1db78")
+	)
+	(pad "6" smd rect
+		(at 0.64 -2.75)
+		(size 0.58 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4826871c-70ef-459c-9c9f-8c6a8027135c")
+	)
+	(pad "7" smd rect
+		(at -0.63 -2.75)
+		(size 0.58 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e835a749-88ae-48e9-8cd3-6a30a93f7fc2")
+	)
+	(pad "8" smd rect
+		(at -1.9 -2.75)
+		(size 0.58 1.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2ef5840d-5e0c-404b-bc34-cd783f240ca7")
+	)
+	(pad "9" thru_hole circle
+		(at -1.8 -2.1)
+		(size 0.8 0.8)
+		(drill 0.3)
+		(property pad_prop_heatsink)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a79f1c91-aaa0-4334-9475-785256f5667e")
+	)
+	(pad "9" thru_hole circle
+		(at -1.8 0.8)
+		(size 0.8 0.8)
+		(drill 0.3)
+		(property pad_prop_heatsink)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "64200121-a627-4d11-a6de-5de3d02e9b2f")
+	)
+	(pad "9" smd rect
+		(at 0 -0.651368)
+		(size 4.4 3.8)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "f21dddb0-1d0f-40d2-bee1-e34d20609e50")
+	)
+	(pad "9" smd rect
+		(at 0 -0.65)
+		(size 4.4 3.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "185e913d-f948-44d0-8c5a-3d12c1c72ced")
+	)
+	(pad "9" thru_hole circle
+		(at 1.780596 0.805857)
+		(size 0.8 0.8)
+		(drill 0.3)
+		(property pad_prop_heatsink)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e6b10427-46ee-4e4c-8572-15981f4b9819")
+	)
+	(pad "9" thru_hole circle
+		(at 1.8 -2.1)
+		(size 0.8 0.8)
+		(drill 0.3)
+		(property pad_prop_heatsink)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bca636be-ad78-4ed0-a180-0aa9ae8c8ff0")
+	)
+	(model "C:/Users/Shahriyar Maraz/Desktop/TEST_PROJECT/Buck converter/Library/Buck_converter.3dshapes/DFN-8_L5.8-W4.9-P1.27-LS6.0-BL-1.step"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

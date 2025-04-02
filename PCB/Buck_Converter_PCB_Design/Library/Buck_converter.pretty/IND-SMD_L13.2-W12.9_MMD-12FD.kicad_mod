@@ -1,0 +1,159 @@
+(footprint "IND-SMD_L13.2-W12.9_MMD-12FD"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "IHLP5050CEER2R2M01"
+		(at 0 -8 0)
+		(layer "F.SilkS")
+		(uuid "f6729977-37e1-44dc-ba21-6c93e59a82d6")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND-SMD_L13.2-W12.9_MMD-12FD"
+		(at 0 8 0)
+		(layer "F.Fab")
+		(uuid "c6c39ce0-dedc-470f-b044-033351381d33")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "IND-SMD_L13.2-W12.9_MMD-12FD"
+		(at 0 10 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4403fbec-804b-47dc-a6bc-2ded6998a09b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "17764238-adc5-4240-aa71-1a914fd695a5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62ee098f-5b5f-4338-b458-cde60f95724b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -6.6 -6.45)
+		(end 6.6 -6.45)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3c332b88-7600-49fa-b188-0a62c571bc41")
+	)
+	(fp_line
+		(start -6.6 -2.73)
+		(end -6.6 -6.45)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "365dde0b-6158-4157-85fd-938078ecd3f8")
+	)
+	(fp_line
+		(start -6.6 6.45)
+		(end -6.6 2.73)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ca920dc2-953a-452f-9b74-3a2b650d9e5c")
+	)
+	(fp_line
+		(start 6.6 -2.73)
+		(end 6.6 -6.45)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8977962f-6f27-443e-925c-a5d632b0cbe8")
+	)
+	(fp_line
+		(start 6.6 6.45)
+		(end -6.6 6.45)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dafd539a-6220-411d-826c-6411c9a0ba45")
+	)
+	(fp_line
+		(start 6.6 6.45)
+		(end 6.6 2.73)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "646d2e38-5331-4286-8890-3f640ec48947")
+	)
+	(fp_circle
+		(center -6.6 6.45)
+		(end -6.57 6.45)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "e01c71b0-61cf-4ce8-837c-9dca4fa3fdc2")
+	)
+	(pad "1" smd rect
+		(at -6 0)
+		(size 3 5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d0d5e3a2-330e-4fb7-b0d1-38526dec1b4b")
+	)
+	(pad "2" smd rect
+		(at 6 0)
+		(size 3 5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e1101805-38cf-456e-abec-4b576b7fbf87")
+	)
+	(model "C:/Users/Shahriyar Maraz/Desktop/TEST_PROJECT/Buck converter/Library/Buck_converter.3dshapes/IND-SMD_L13.2-W12.9_MMD-12FD.step"
+		(offset
+			(xyz 0 -0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
